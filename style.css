@@ -42,7 +42,7 @@ header
     border: 1px solid white;
 }
 
-.logo img 
+.logo a img 
 {
     height: 100px;
     width: auto;
